@@ -5,7 +5,7 @@ This project is a web application that allows users to create and manage their t
 
 
 
-Features:
+<-----Features------>
 
 
 The home page displays the user's to-do list, including default items and any user-added items.
@@ -21,7 +21,7 @@ The application is responsive and works on all devices.
 
 
 
-Technologies used:
+<------Technologies used-------->
 
 
 Node.js as the server-side runtime environment
@@ -39,7 +39,7 @@ CSS for styling the application
 
 
 
-How to run the project:
+<--------How to run the project----------->
 
 
 Clone the repository to your local machine.
