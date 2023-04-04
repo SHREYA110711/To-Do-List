@@ -3,7 +3,10 @@
 Project Description:
 This project is a web application that allows users to create and manage their to-do lists. It is built using Node.js and Express.js as the server-side framework, and MongoDB as the database. The application follows the MVC (Model-View-Controller) architectural pattern to separate the concerns of data, presentation, and control logic.
 
+
+
 Features:
+
 
 The home page displays the user's to-do list, including default items and any user-added items.
 
@@ -16,7 +19,10 @@ Users can create new lists and switch between different lists using the navigati
 The application is responsive and works on all devices.
 
 
+
+
 Technologies used:
+
 
 Node.js as the server-side runtime environment
 
@@ -30,7 +36,11 @@ EJS (Embedded JavaScript) as the template engine for server-side rendering
 
 CSS for styling the application
 
+
+
+
 How to run the project:
+
 
 Clone the repository to your local machine.
 
